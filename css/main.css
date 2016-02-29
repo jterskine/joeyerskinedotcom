@@ -1,0 +1,22 @@
+body {
+	font-family: Karla;  /* Not worrying about fallbacks, nbd */
+
+}
+
+.container {
+	margin: 40px 0 20px;
+	max-width: 1170px;
+	    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.class-fooooooter {
+	position:fixed;
+    bottom:0;
+    left:60%;
+    margin-left:-200px; /*negative half the width */
+    height:100px;
+    color: #888;
+}
